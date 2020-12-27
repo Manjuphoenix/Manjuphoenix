@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Manjuphoenix&color=green&label=PROFILE+VIEWS)
 
+
+<img align="left" alt="C" src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
+
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **manjunath.d1@visioneer.atria.edu**
