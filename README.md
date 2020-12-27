@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating+travelling✨ 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **manjunath.d1@visioneer.atria.edu**
