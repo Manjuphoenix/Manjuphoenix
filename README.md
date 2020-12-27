@@ -29,7 +29,33 @@ Here are some ideas to get you started:
 <br />
 <img align="left" alt="Manju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manjuphoenix&show_icons=true&hide_border=true" />
 <br/>
+<div align="center">
+  
+<h3>Languages and Framework:</h3>
 
+<img align="center" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
+<img align="center" alt="Django" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fostechnix.com%2Fwp-content%2Fuploads%2F2016%2F05%2FDjango-Framework.png" />
+<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
+<img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
+<img align="center" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />
+<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</br>
+
+</div>
+
+<div align="center">
+  
+
+
+  
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
+ ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **manjunath.d1@visioneer.atria.edu**
