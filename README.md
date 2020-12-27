@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 ##### ✉ Connect with me
 &nbsp;&nbsp;[<img align="left" alt="Manjunath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;
 [<img align="left" alt="Manjunath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] &nbsp;&nbsp;
-[<img align="left" alt="Manjunath | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance] &nbsp;&nbsp;
 [<img align="left" alt="Manjunath | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] &nbsp;&nbsp;
-[<img align="left" alt="Manjunath | quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora] &nbsp;&nbsp;
-[<img align="left" alt="Manjunath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp;&nbsp;
 
 
 [linkedin]:https://www.linkedin.com/in/manjunath-d/
