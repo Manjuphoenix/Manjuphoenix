@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Manjunath </h1>
 <h3 align="center">Developer Student Clubs lead, and i'm more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3>
-<br>
 <h3> Check out my repositories which includes projects on Machine Learning, Devops, Mobile and Web app development  </h3>
 
 
