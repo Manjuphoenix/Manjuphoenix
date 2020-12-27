@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **manjunath.d1@visioneer.atria.edu**
 ##### ✉ Connect with me
 &nbsp;&nbsp;[<img align="left" alt="Manjunath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;
-[<img align="left" alt="Manjunath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] &nbsp;&nbsp;
 [<img align="left" alt="Manjunath | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] &nbsp;&nbsp;
 
 
