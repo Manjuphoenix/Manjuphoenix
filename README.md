@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="C" src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python3&logoColor=white" />&nbsp;&nbsp;
-<img align="left" alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c++3&logoColor=white" />&nbsp;&nbsp;
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <br />
