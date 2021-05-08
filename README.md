@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Manjuphoenix&color=green&label=PROFILE+VIEWS)
 
 
-<img align="left" alt="C" src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
-<img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <br />
 <img align="left" alt="Manju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manjuphoenix&show_icons=true&hide_border=true" />
 <br/>
