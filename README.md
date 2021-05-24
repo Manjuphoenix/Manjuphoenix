@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey amigo! </h1>
-<h3 align="center">Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3>
+<h3 align="center">This is Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3>
 
 
 
