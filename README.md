@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Manjunath </h1>
-<h3 align="center">Developer Student Clubs lead, and i'm more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3>
+<h1 align="center">Hey amigo! </h1>
+<h3 align="center">Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3>
 
-
-![](https://komarev.com/ghpvc/?username=Manjuphoenix&color=green&label=PROFILE+VIEWS)
 
 
 <br />
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating+travelling✨ 
+ ### ⚡ Fun fact ✨ Daily routine- Eat+Code+Game+Sleep+love :)✨ 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **manjunath.d1@visioneer.atria.edu**
