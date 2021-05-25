@@ -14,7 +14,6 @@
 `.html` `.css` `.sql` <br/>
 `.ai` <br/>
 <div align="center">
-<h3>Languages and Framework:</h3>
 <img align="center" alt="Flutter" width="65px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgearheart.io%2Fmedia%2Fimages%2Fflutter.original.jpg" />
 <img align="center" alt="Django" width="65px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fostechnix.com%2Fwp-content%2Fuploads%2F2016%2F05%2FDjango-Framework.png" />
 <img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
