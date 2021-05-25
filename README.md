@@ -1,32 +1,20 @@
 
-
-<!--
-**Manjuphoenix/Manjuphoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hey amigo! </h1>
-<h3 align="center">This is Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3>
+<!-- <h3 align="center">This is Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3> -->
+👋 Hey Amigo!, I'm Manjunath<br>
+🎓 Pre-final year undergrad at [Atria Institute of Technology][college]<br>
+🤩 Interested in mobile `Algorithms`, `Devops`, and `App development`.<br>
+💻 Learning Android app development<br>
+⚒ Working with `Flutter`, `Firebase`.
 
+##### ⚙ Languages and Tools:
 
-
-<br />
-<img align="left" alt="Manju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manjuphoenix&show_icons=true&hide_border=true" />
-<br/>
+`.c` `.py` <br/>
+`.apk` `.java` `.dart` <br/>
+`.html` `.css` `.sql` <br/>
+`.ai` <br/>
 <div align="center">
-  
 <h3>Languages and Framework:</h3>
-
 <img align="center" alt="Flutter" width="65px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgearheart.io%2Fmedia%2Fimages%2Fflutter.original.jpg" />
 <img align="center" alt="Django" width="65px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fostechnix.com%2Fwp-content%2Fuploads%2F2016%2F05%2FDjango-Framework.png" />
 <img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
@@ -36,13 +24,8 @@ Here are some ideas to get you started:
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
-
 </div>
-
 <div align="center">
-  
-
-
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
