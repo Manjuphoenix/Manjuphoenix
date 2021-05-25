@@ -1,5 +1,4 @@
 
-<h1 align="center">Hey amigo! </h1>
 <!-- <h3 align="center">This is Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3> -->
 👋 Hey Amigo!, I'm Manjunath<br>
 🎓 Pre-final year undergrad<br>
