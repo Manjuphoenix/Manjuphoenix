@@ -2,7 +2,7 @@
 <h1 align="center">Hey amigo! </h1>
 <!-- <h3 align="center">This is Google Developer Student Clubs lead, more like a T shaped developer but not exactly( Jack of all trades, master of none ) </h3> -->
 👋 Hey Amigo!, I'm Manjunath<br>
-🎓 Pre-final year undergrad at [Atria Institute of Technology][college]<br>
+🎓 Pre-final year undergrad at [AIT][college]<br>
 🤩 Interested in mobile `Algorithms`, `Devops`, and `App development`.<br>
 💻 Learning Android app development<br>
 ⚒ Working with `Flutter`, `Firebase`.
